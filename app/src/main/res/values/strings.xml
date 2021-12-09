@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Search Movies</string>
+    <string color ="white" name="search">    Search your movie</string>
+</resources>
